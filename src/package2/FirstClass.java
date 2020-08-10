@@ -16,6 +16,7 @@ public class FirstClass {
 		System.out.println("First commit from sahiner branch");
 		
 		System.out.println("The second commit from local sahiner");
+		System.out.println("This is the third commit from local sahiner");
 		
 	}
 
